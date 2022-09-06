@@ -1,0 +1,3 @@
+couleur jaune: #fed800
+couleur bleu claire: #40aff5
+couleur bleu pure: #007bff
