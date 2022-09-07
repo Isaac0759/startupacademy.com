@@ -215,6 +215,7 @@
     .container,
     .container-fluid {
         padding: 0 30px;
+        height: 100px;
     }
     .hero-section {
         height: 625px;
