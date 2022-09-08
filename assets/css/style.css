@@ -552,6 +552,7 @@ input[type="submit"]:focus {
     max-width: 500px;
     padding: 50px;
     position: relative;
+    margin-top: 80px;
 }
 
 /* .about-images:before {
