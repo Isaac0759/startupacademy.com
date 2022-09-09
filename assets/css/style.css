@@ -555,30 +555,6 @@ input[type="submit"]:focus {
     margin-top: 80px;
 }
 
-/* .about-images:before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 192px;
-    height: 192px;
-    border-radius: 50%;
-    z-index: -1;
-    background: #40aff5;
-} */
-
-/* .about-images:after {
-    content: '';
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    width: 191px;
-    height: 191px;
-    z-index: -1;
-    background: #fed800;
-    clip-path: polygon(100% 100%, 0 100%, 0 0);
-} */
-
 .about-images img {
     border-radius: 0 0 0 0;
 }
