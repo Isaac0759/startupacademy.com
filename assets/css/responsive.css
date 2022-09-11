@@ -195,7 +195,7 @@
     }
     .textimonial-content p {
         font-size: 20px;
-        padding-top: 30px;
+        padding-top: 1px;
     }
     .textimonial-content p:before {
         content: none;
@@ -324,6 +324,7 @@
     }
     .review-single .textimonial-image img {
         width: 100%;
+        margin-bottom: 35px;
     }
     .error-image {
         margin-bottom: 60px;
