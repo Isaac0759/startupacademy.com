@@ -1162,7 +1162,7 @@ input[type="submit"]:focus {
     color: var(--heading-color, #2d2d2d);
 }
 
-.textimonial-content p:before {
+/* .textimonial-content p:before {
     content: "\f107";
     font-family: "Flaticon";
     font-size: 45px;
@@ -1180,7 +1180,7 @@ input[type="submit"]:focus {
     right: 15%;
     bottom: -65px;
     color: #40aff5;
-}
+} */
 
 .textimonial-content .reviewer {
     margin-top: 60px;
