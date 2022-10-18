@@ -827,7 +827,7 @@ input[type="submit"]:focus {
     bottom: 0;
     width: 0px;
     height: 0px;
-    background: var(--primary-color, #fe6600);
+    background: #fed800;
     clip-path: polygon(100% 100%, 0 100%, 0 0);
     -webkit-transition: .5s;
     transition: .5s;
@@ -1278,7 +1278,7 @@ input[type="submit"]:focus {
 }
 
 .vission-tabs li:hover:before, .vission-tabs li.active:before {
-    background: rgba(254, 102, 0, .93);    
+    background: #fed800;    
 }
 
 .vission-tabs li h3 {
