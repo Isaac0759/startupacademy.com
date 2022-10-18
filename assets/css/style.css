@@ -2288,8 +2288,8 @@ p {
     width: 100px;
     height: 100px;
     object-fit: contain;
+    margin: 5px;
     border-radius: 50%;
-    margin-right: 20px;
     border: 1px solid #f3b71e;
 }
 .contact-one__bottom {
@@ -2301,3 +2301,8 @@ p {
     margin-top: 100px;
     margin-bottom: 100px;
 }
+.form-connexion {
+    position: relative;
+    min-height: 100%;
+}
+/* ******************************************** */

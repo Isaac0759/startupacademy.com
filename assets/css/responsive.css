@@ -31,6 +31,12 @@
     
 }
 
+@media only screen and (max-width: 450px) {
+    .contact-one__form button{
+        margin-left: 50px;
+    }
+}
+
 
 @media only screen and (min-width: 1200px) {
     .container {
@@ -103,6 +109,7 @@
     }
     .section-title {
         margin-bottom: 45px;
+        margin-top: 15px;
     }
     .section-title h2 {
         font-size: 50px;
@@ -570,4 +577,9 @@
         padding: 15px 35px;
     }
 
+}
+@media only screen and (max-width: 450px) {
+    .contact-one__form-box{
+        margin-top: 25px;
+    }
 }
