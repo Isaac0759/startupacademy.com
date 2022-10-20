@@ -301,14 +301,14 @@ a.theme-btn {
 
 .form-group input::placeholder,
 .form-group textarea::placeholder {
-    color: black;
+    color: #747474;
 }
 
 .form-group input:focus,
 .form-group textarea:focus {
     color: #FFFFFF;
     box-shadow: none;
-    background: #fed800;
+    background: white;
 }
 
 /* input buttons */
