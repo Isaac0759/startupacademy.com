@@ -337,7 +337,7 @@ input[type="submit"]:focus {
 }
 
 .bg-orange {
-    background: #fed800;
+    background: #40aff5;
 }
 
 .bg-black {
@@ -2019,6 +2019,7 @@ input[type="submit"]:focus {
 }
 
 .menu-widget ul li a {
+    text-decoration: none;
     font-size: 16px;
 }
 
@@ -2294,3 +2295,14 @@ p {
     min-height: 100%;
 }
 /* ******************************************** */
+.team-desc {
+    text-align: center;
+}
+.team-desc h3 {
+    color: #000000;
+}
+
+/* modif */
+.btn {
+    text-transform: uppercase;
+}

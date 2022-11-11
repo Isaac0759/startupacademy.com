@@ -61,7 +61,7 @@
     left: -14%;
     width: 128%;
     height: 100%;
-    background: #4C3526;
+    background: #40aff5;
     z-index: -2;
     clip-path: polygon(100% 0, calc(100% - 50px) 100%, 50px 100%, 0 0);
 }
@@ -90,6 +90,7 @@
 
 .top-left li a {
     color: #fff;
+    text-decoration: none;
 }
 
 .top-left li a:hover {
@@ -127,6 +128,7 @@
     color: var(--heading-color, #2d2d2d);
     font-weight: 700;
     opacity: 1;
+    text-decoration: none;
     text-transform: capitalize;
     -webkit-transition: all 500ms ease;
     transition: all 500ms ease;
@@ -229,6 +231,7 @@
     font-weight: 700;
     color: white;
     margin-left: 10px;
+    text-decoration: none;
 }
 .menu-number a:hover {
     font-weight: 700;
