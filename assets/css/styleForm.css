@@ -230,18 +230,18 @@ img {
         max-lines: 10rem;
     }
 
-    .login_img {
+    /* .login_img {
         display: flex;
         width: 600px;
         height: 588px;
         background-color: var(--first-color-lighten);
         border-radius: 1rem;
         padding-left: 1rem;
-    }
-    .login_img img {
+    } */
+    /* .login_img img {
         width: 390px;
         margin-top: 0;
-    }
+    } */
 
     .login_register,
     .login_create {
