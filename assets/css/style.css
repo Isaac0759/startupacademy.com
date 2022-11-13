@@ -75,7 +75,7 @@ h3,
 h4,
 h5,
 h6 {
-    color: #40aff5;
+    color: #457b9d;
     line-height: 1.1;
     font-family: 'Roboto', sans-serif;
 }
@@ -337,11 +337,11 @@ input[type="submit"]:focus {
 }
 
 .bg-orange {
-    background: #40aff5;
+    background: #fed800;
 }
 
 .bg-black {
-    background: #40aff5;
+    background: #457b9d;
 }
 
 .bg-snow {
@@ -351,7 +351,7 @@ input[type="submit"]:focus {
 /****************************************************** */
 /****************** 02. Hero Section  *************** */
 /****************************************************** */
-.hero-section {
+/* .hero-section {
     height: 1000px;
     margin-top: 50px;
     background: url(../images/hero/hero-bg.jpg);
@@ -359,7 +359,7 @@ input[type="submit"]:focus {
     background-position: center;
     display: flex;
     align-items: center;
-}
+} */
 
 .hero-inner {
     max-width: 900px;
@@ -385,7 +385,7 @@ input[type="submit"]:focus {
 
 .hero-inner h1 span:after {
     content: '.';
-    color: #40aff5;
+    color: #457b9d;
 }
 
 .hero-btn a {
@@ -470,7 +470,7 @@ input[type="submit"]:focus {
 .success-item {
     display: flex;
     padding-left: 16px;
-    border-right: 1px solid #007bff;
+    border-right: 1px solid #457b9d;
 }
 
 .success-wrap .row > div:last-child .success-item {
@@ -525,7 +525,7 @@ input[type="submit"]:focus {
     height: 192px;
     border-radius: 50%;
     z-index: -1;
-    background: #40aff5;
+    background: #457b9d;
 }
 
 .about-image:after {
@@ -632,7 +632,7 @@ input[type="submit"]:focus {
     bottom: 0;
     width: 300px;
     height: 300px;
-    background: #007bff;
+    background: #457b9d;
     clip-path: polygon(100% 0, 100% 100%, 0 100%);
 }
 
@@ -702,7 +702,7 @@ input[type="submit"]:focus {
     height: 5px;
     margin-left: 15px;
     margin-bottom: 40px;
-    background: #40aff5;
+    background: #457b9d;
 }
 
 
@@ -777,7 +777,7 @@ input[type="submit"]:focus {
     left: 0;
     width: 300px;
     height: 300px;
-    background: #007bff;
+    background: #457b9d;
     clip-path: polygon(100% 0, 0 100%, 0 0);
 }
 
@@ -878,7 +878,7 @@ input[type="submit"]:focus {
 }
 
 .case-wrap .case-prev, .case-wrap .case-next {
-    background: #007bff;
+    background: #457b9d;
     width: 65px;
     height: 65px;
     line-height: 65px;
@@ -993,7 +993,7 @@ input[type="submit"]:focus {
     left: 0;
     width: 100%;
     height: 100%;
-    background: #40aff5;
+    background: #457b9d;
     opacity: .9;
 }
 
@@ -1003,7 +1003,7 @@ input[type="submit"]:focus {
     bottom: 0;
     width: 300px;
     height: 300px;
-    background: #007bff;
+    background: #316280;
     clip-path: polygon(100% 0, 100% 100%, 0 100%);
 }
 
@@ -1056,7 +1056,7 @@ input[type="submit"]:focus {
 
 .review-btn {
     display: block;
-    background: #40aff5;
+    background: #457b9d;
 }
 
 .review-btn,
@@ -1193,7 +1193,7 @@ input[type="submit"]:focus {
 }
 
 .cta-section .cta-btn .theme-btn {
-    background: #40aff5;
+    background: #457b9d;
     padding: 20px 57px;
 }
 
@@ -1388,7 +1388,7 @@ input[type="submit"]:focus {
 }
 
 .service-details-content h3 {
-    color: #40aff5;
+    color: #457b9d;
     font-size: 35px;
     margin-bottom: 25px;
 }
@@ -1713,6 +1713,7 @@ input[type="submit"]:focus {
 .case-sidebar {
     max-width: 300px;
     margin-right: auto;
+    background-color: #457b9d;
 }
 
 .case-sidebar .sidebar-widget {
@@ -2045,7 +2046,7 @@ input[type="submit"]:focus {
 
 .subscribe-form .form-group input {
     padding: 12px 29px;
-    background: #007bff;
+    background: #316280;
 }
 
 .subscribe-form input::placeholder {
@@ -2088,7 +2089,7 @@ input[type="submit"]:focus {
 .copyright-area {
     color: #f7f9fb;
     padding: 17px 0;
-    background: #007bff;
+    background: #316280;
 }
 
 .copyright-inner {
@@ -2149,7 +2150,7 @@ input[type="submit"]:focus {
     cursor: pointer;
     margin-left: auto;
     border-radius: 15px;
-    background: #40aff5;
+    background: #457b9d;
 }
 .logo 
 {
@@ -2215,7 +2216,7 @@ form {
     letter-spacing: 2px;
 }
 .contact-one__form button:hover{
-    background-color: #007bff;
+    background-color: #457b9d;
     color: #fed800;
 
 }
@@ -2238,7 +2239,7 @@ form {
     font-size: 50px;
     line-height: 60px;
     font-weight: 500px;
-    color: #40aff5;
+    color: #457b9d;
 }
 p {
     display: block;
@@ -2300,4 +2301,31 @@ p {
 }
 .team-desc h3 {
     color: #000000;
+}
+
+.footer-section {
+    background-color: #457b9d;
+}
+
+.accordion-button {
+    text-transform: uppercase;
+}
+
+.accordion-button:hover {
+    color: #f3b71e;
+}
+.prestation {
+    text-align: center;
+}
+.prestation:hover {
+    color: #f3b71e;
+}
+
+.textVision {
+    color: #f3b71e;
+    font-size: 1.2rem;
+}
+
+.ideologie {
+    background-color: #f9f9f9;
 }

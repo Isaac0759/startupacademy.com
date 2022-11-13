@@ -17,7 +17,7 @@ main {
   width: 100%;
   min-height: 100vh;
   overflow: hidden;
-  background-color: #ff8c6b;
+  background-color: #457b9d;
   padding: 2rem;
   display: flex;
   align-items: center;
@@ -87,11 +87,11 @@ form.sign-up-form {
   font-size: 1.1rem;
   margin-top: -9px;
   letter-spacing: -0.5px;
-  color: #40aff5;
+  color: #457b9d;
 }
 
 .logo span {
-  color: #fed800;
+  color: #fcd00d;
 }
 
 b {
@@ -102,7 +102,10 @@ b {
   margin-bottom: 5px;
   font-size: 2.1rem;
   font-weight: 600;
-  color: #151111;
+  color: #457b9d;
+}
+.heading h2:hover {
+  color: #fcd00d;
 }
 
 .heading h6 {
@@ -121,7 +124,7 @@ b {
 }
 
 .toggle:hover {
-  color: #40aff5;
+  color: #457b9d;
 }
 
 .input-wrap {
@@ -168,7 +171,7 @@ label {
   display: inline-block;
   width: 100%;
   height: 43px;
-  background-color: #151111;
+  background-color: #457b9d;
   color: #fff;
   border: none;
   cursor: pointer;
@@ -179,7 +182,7 @@ label {
 }
 
 .sign-btn:hover {
-  background-color: #40aff5;
+  background-color: #fcd00d;
 }
 
 .text {
@@ -193,7 +196,7 @@ label {
 }
 
 .text a:hover {
-  color: #8371fd;
+  color: #457b9d;
 }
 
 main.sign-up-mode form.sign-in-form {
@@ -354,6 +357,7 @@ main.sign-up-mode .carousel {
   }
 
   .carousel {
+    background-color: #457b9d;
     position: revert;
     height: auto;
     width: 100%;
@@ -394,6 +398,7 @@ main.sign-up-mode .carousel {
 
   .text-group h2 {
     font-size: 1.2rem;
+    color: #fff;
   }
 
   form {
