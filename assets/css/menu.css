@@ -48,7 +48,7 @@
     left: -14%;
     width: 128%;
     height: 100%;
-    background: #40aff5;
+    background: #457b9d;
     z-index: -1;
     clip-path: polygon(calc(100% - 10px) 0, calc(100% - 60px) 100%, 60px 100%, 10px 0);
     
@@ -61,7 +61,7 @@
     left: -14%;
     width: 128%;
     height: 100%;
-    background: #40aff5;
+    background: #457b9d;
     z-index: -2;
     clip-path: polygon(100% 0, calc(100% - 50px) 100%, 50px 100%, 0 0);
 }
@@ -85,7 +85,7 @@
     line-height: 35px;
     display: inline-block;
     color: white;
-    background: #007bff;
+    background: #316280;
 }
 
 .top-left li a {
@@ -224,7 +224,7 @@
     text-align: center;
     align-items: center;
     border-radius: 5px;
-    background-color: #40aff5;
+    background-color: #457b9d;
 }
 
 .menu-number a {

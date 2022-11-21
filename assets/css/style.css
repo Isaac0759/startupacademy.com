@@ -351,7 +351,7 @@ input[type="submit"]:focus {
 /****************************************************** */
 /****************** 02. Hero Section  *************** */
 /****************************************************** */
-/* .hero-section {
+.hero-section {
     height: 1000px;
     margin-top: 50px;
     background: url(../images/hero/hero-bg.jpg);
@@ -359,7 +359,7 @@ input[type="submit"]:focus {
     background-position: center;
     display: flex;
     align-items: center;
-} */
+}
 
 .hero-inner {
     max-width: 900px;
@@ -403,7 +403,7 @@ input[type="submit"]:focus {
 .page-banner {
     height: 520px;
     margin-top: 50px;
-    background: url(../images/banner/banner-bg.jpg);
+    background: url(../images/banner/06547639-c687-4b22-9264-d2c7edfb9e4e.png);
     background-size: cover;
     background-position: center;
     display: flex;
@@ -972,7 +972,7 @@ input[type="submit"]:focus {
 }
 
 .team-item .team-desc p {
-    color: var(--primary-color, #fe6600);
+    color: #457b9d;
 }
 
 
@@ -1222,18 +1222,10 @@ input[type="submit"]:focus {
     position: relative;
 }
 
-.vission-tabs:before {
-    content: '';
-    position: absolute;
-    left: 0;
-    top: -10%;
-    width: 100%;
-    height: 120%;
-    z-index: -1;
-    background: #F9F9F9;
+.section-objectif {
+    background-color: #f9f9f9;
 }
 .vission-tabs li {
-    height: 140px;
     cursor: pointer;
     position: relative;
     display: flex;
@@ -2249,6 +2241,7 @@ p {
     margin-inline-end: 0px;
     font-size: 16px;
 }
+
 .contact-one__founder {
     font-size: 20px;
     line-height: 34px;
@@ -2327,5 +2320,13 @@ p {
 }
 
 .ideologie {
+    background-color: #f9f9f9;
+}
+.vision {
+    border-radius: 5px;
+    height: 480px;
+}
+
+.testimonial-section {
     background-color: #f9f9f9;
 }

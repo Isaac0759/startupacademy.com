@@ -371,7 +371,9 @@
     .success-item {
         padding-left: 55px;
     }
-
+    .ideologie {
+        padding: 55px;
+    }
 }
 
 
@@ -394,6 +396,14 @@
     }
     .widget .social-style-two a {
         margin-right: 2px;
+    }
+
+    .vision {
+        height: 300px;
+    }
+
+    .temoin {
+        font-size: 25px;
     }
     
 }
