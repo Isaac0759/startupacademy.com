@@ -2334,3 +2334,8 @@ p {
 .titre {
     color: #f3b71e;
 }
+
+.Titre_h3 {
+    text-transform: uppercase;
+    font-size: 30px;
+}
