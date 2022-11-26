@@ -2339,3 +2339,7 @@ p {
     text-transform: uppercase;
     font-size: 30px;
 }
+
+.img_avantage{
+    border-radius: 10px;
+}

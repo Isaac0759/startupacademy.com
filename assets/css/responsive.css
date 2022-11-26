@@ -401,14 +401,11 @@
     .vision {
         height: 300px;
     }
-
-    .temoin {
-        font-size: 25px;
-    }
     
     .Titre_h3 {
         font-size: 15px;
         text-align: center;
+        text-transform: uppercase;
     }
 }
 
